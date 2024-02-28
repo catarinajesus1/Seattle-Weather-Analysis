@@ -1,4 +1,3 @@
 # Seattle-Weather-Analysis
 
-This report analyzes the weather in Seattle which was executed predictive analysis to identify which variable have higher impact in weather changes and it was forecasted future weather condition for business and customers help. 
-
+This report conducts a comprehensive analysis of the weather patterns in Seattle, employing predictive analytics to identify variables with a significant impact on weather changes. Additionally, it forecasts future weather conditions, providing valuable insights for businesses and customers.
